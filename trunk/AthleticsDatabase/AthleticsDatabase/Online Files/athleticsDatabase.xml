@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--Root Element-->
+<athleticsDatabase>
+  <!--Child Element-->
+  <latestVersion>0.0.7.0</latestVersion>
+  <latestDownload>http://www.olaegbe.com/AthleticsDatabase</latestDownload>
+  <latestDBVersion>2</latestDBVersion>
+  <latestDBDownload>http://www.olaegbe.com/athleticsDatabase.db</latestDBDownload>
+</athleticsDatabase>
